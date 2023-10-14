@@ -1,0 +1,15 @@
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/bin/Debug/net7.0/SandBox
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/bin/Debug/net7.0/SandBox.deps.json
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/bin/Debug/net7.0/SandBox.runtimeconfig.json
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/bin/Debug/net7.0/SandBox.dll
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/bin/Debug/net7.0/SandBox.pdb
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/SandBox.csproj.AssemblyReference.cache
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/SandBox.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/SandBox.AssemblyInfoInputs.cache
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/SandBox.AssemblyInfo.cs
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/SandBox.csproj.CoreCompileInputs.cache
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/SandBox.dll
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/refint/SandBox.dll
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/SandBox.pdb
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/SandBox.genruntimeconfig.cache
+/home/mark/Рабочий стол/VScodeC#Project/SandBox/obj/Debug/net7.0/ref/SandBox.dll
